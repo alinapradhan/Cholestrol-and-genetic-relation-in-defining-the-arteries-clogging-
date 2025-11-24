@@ -1,7 +1,7 @@
 # Cholesterol and Genetic/Weight Relationship Prediction Model
 
 Machine Learning model to predict cholesterol-related heart disease risk based on genetic and weight-related factors.
-
+ 
 ## Overview
  
 This project uses machine learning to analyze the relationship between cholesterol levels, genetic factors, and weight-related indicators to predict whether a patient has a **YES** (high risk) or **NO** (low risk) for cholesterol-related heart disease.
