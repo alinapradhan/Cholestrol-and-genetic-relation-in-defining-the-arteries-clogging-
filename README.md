@@ -11,7 +11,7 @@ This project uses machine learning to analyze the relationship between cholester
 - **Multiple ML Models**: Compares Logistic Regression, Random Forest, and SVM classifiers
 - **High Accuracy**: Achieves ~85% accuracy on test data
 - **Genetic Factors**: Considers sex, thalassemia, and other genetic markers 
-- **Weight Indicators**: Analyzes age, blood pressure, and related metrics
+- **Weight Indicators**: Analyzes age, blood pressure, and related metrics 
 - **Easy Prediction**: Simple command-line interface for single or batch predictions
 - **Model Persistence**: Saves and loads trained models for reuse
 
